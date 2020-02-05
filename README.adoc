@@ -1,0 +1,7 @@
+= gradle-exercice
+:toc:
+:toclevels: 4
+:numbered:
+
+== notes
+
