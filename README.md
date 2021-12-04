@@ -1,2 +1,0 @@
-# gradle-exercice
-gradle-exercice
