@@ -1,0 +1,21 @@
+plugins {
+  id 'java'
+  id 'application'
+}
+
+group= "org.noname713705"
+version = "0.0.1-SNAPSHOT"
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+mainClassName= "org.noname713705.gradle.exercise.GradleExerciseApp"
+
+dependencies {
+}
+
+/*jar {
+    archiveBaseName = 'bla'
+    archiveVersion =  '${version}'
+}
+*/
