@@ -17,6 +17,12 @@
     <spring-boot-maven-plugin.version>2.5.6</spring-boot-maven-plugin.version>
   </properties>
   
+  <scm>
+    <connection>scm:git:git@noname713705.github.com:noname713705/gradle-exercice.git</connection>
+    <url>https://github.com/noname713705/gradle-exercice</url>
+    <tag>001-gradle-basics</tag>
+  </scm>
+  
   <build>
     <plugins>
       <plugin>
